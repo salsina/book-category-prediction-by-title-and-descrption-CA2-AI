@@ -13,6 +13,8 @@ after data normalization we must keep the words and their occuring frequency in 
 
 so after that we will be able to read the data from test file and predict the category of each book.
 
+methods like smoothing have also been applied for higher prediction accuracy.
+
 Finally there are two methods for accuracy evaluation. one is the normal accuracy in which we calculate number of true predictions divided by all the data. The second method is 
 
 macro-F1 for more information please check out this website "https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1"
